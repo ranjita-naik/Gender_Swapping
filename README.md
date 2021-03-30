@@ -30,7 +30,4 @@ The secretary asked the mover when he is available .
 The farmer ran faster than the seamstress because she was weaker .
 Give this book to him .
 
-![image](https://user-images.githubusercontent.com/32549868/112945937-92bae600-9152-11eb-8bfd-5162b73aae7f.png)
-
-
 ```
