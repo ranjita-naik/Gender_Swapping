@@ -18,10 +18,14 @@ The secretary asked the mover when she is available.
 The farmer ran faster than the tailor because he was weaker.
 Give this book to her.
 
+```
+```
 $python .\text_to_conllu.py --in_file .\test\test.txt --out_file .\test\test.conll 
 $python .\gender_swapping.py --in_file .\test\test.conll  --out_file .\test\test_swapped.conll
 $python .\conll_to_text.py --in_file .\test\test_swapped.conll  --out_dir C:\Gender_Swapping\test   
+```
 
+```
 $cat .\test\test_swapped.conll_text
 It's his voice .
 I know him .
