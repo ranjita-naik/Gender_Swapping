@@ -22,7 +22,7 @@ $python .\text_to_conllu.py --in_file .\test\test.txt --out_file .\test\test.con
 $python .\gender_swapping.py --in_file .\test\test.conll  --out_file .\test\test_swapped.conll
 $python .\conll_to_text.py --in_file .\test\test_swapped.conll  --out_dir C:\Gender_Swapping\test   
 
-$cat C:\Gender_Swapping\test\test_swapped.conll_text
+$cat .\test\test_swapped.conll_text
 It's his voice .
 I know him .
 The developer argued with the designer because he did not like the design .
